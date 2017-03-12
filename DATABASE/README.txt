@@ -1,1 +1,1 @@
-After created the Cassandra keyspace and all the table, it needed to import the User.csv file on User table. It contains the Default User to track the exceeded vote’s when each user will vote more than 3 times.
+After created the Cassandra keyspace and all the tables, it needs to import the User.csv file on User table. It contains the Default User to track the exceeded vote’s when each user will vote more than 3 times.
