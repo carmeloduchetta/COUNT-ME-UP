@@ -1,4 +1,4 @@
-#Apache Solr and Configuration
+#Apache Solr 4.10.0 and Configuration
 
 After installing the Apache Solr Server 4.10.0 it needs to copy BBC_VOTES-STAGE folder into  "$SERVER_ROOT/example/solr/" and restart the server
 
