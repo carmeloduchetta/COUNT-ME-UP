@@ -3,7 +3,7 @@
 <br> • I want to see the counts for candidates within a given time frame
 <br> • So that I can announce the winner of the competition
 
-# REQUIRED
+<h2> Required</h2>
 •	Apache Cassandra NoSQL 2.0.6
 <br>•	Apache Solr 4.10.0
 <br>•	Apache Tomcat 7.0.68
@@ -13,10 +13,10 @@
 <br>•	MAVEN
 <br>•	Apache server or PHP support for Tomcat 
 
-# CODE CHANGES
+<h2> CODE CHANGES</h2>
 <br> The main code is provided by BBC-1.0-STAGE Branch
 
-# ARCHITECTURE DESCRIPTION
+<h2> ARCHITECTURE DESCRIPTION</h2>
 <br> The Count Me Up PDF file explain the main architecture of the project
 
 <h2> Assumptions </h2>
