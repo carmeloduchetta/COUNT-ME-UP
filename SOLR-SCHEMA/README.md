@@ -1,3 +1,5 @@
+#Apache Solr and Configuration
+
 After installing the Apache Solr Server 4.10.0 it needs to copy BBC_VOTES-STAGE folder into  "$SERVER_ROOT/example/solr/" and restart the server
 
 TO CLEAR THE CORE RUN:
