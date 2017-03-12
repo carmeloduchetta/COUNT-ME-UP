@@ -18,3 +18,15 @@
 
 # ARCHITECTURE DESCRIPTION
 <br> The Count Me Up PDF file explain the main architecture of the project
+
+<h2> Assumptions <h2>
+
+•	A Default User will track all the exceeded votes
+
+•	There is a fixed number of 5 candidates. I do make this configurable on the embedded HTML drop down.
+
+•	Candidates will simply be referenced by a Key-Value pair. [UUID:Text] e.g. [daa61fdc-0422-11e7-93ae-92361f002671:CANDIDATE 1]
+
+•	Users would be signed in to track their votes. They will need to successfully create their own profile on the system.
+
+•	Each User can vote only 3 times, the exceeded votes will be ignored.
