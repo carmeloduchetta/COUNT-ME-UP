@@ -18,7 +18,8 @@
 
 <h2> ARCHITECTURE DESCRIPTION</h2>
 <br> The Count Me Up PDF file explain the main architecture of the project
-[[https://github.com/carmeloduchetta/COUNT-ME-UP/blob/BBC-1.0-STAGE/ARCHITECTURE.png|alt=octocat]]
+
+![Screenshot](https://github.com/carmeloduchetta/COUNT-ME-UP/blob/BBC-1.0-STAGE/ARCHITECTURE.png)
 
 <h2> Assumptions </h2>
 
