@@ -4,12 +4,12 @@
 <br> • So that I can announce the winner of the competition
 
 # REQUIRED
-•	CASSANDRA NoSQL 2.0.6
-<br>•	APACHE SOLR 4.10.0
-<br>•	APACHE TOMCAT 7.0.68
+•	Apache Cassandra NoSQL 2.0.6
+<br>•	Apache Solr 4.10.0
+<br>•	Apache Tomcat 7.0.68
 <br>•	PHP 5.4.45
-<br>•	JAVA 1.8
-<br>•	ECLIPSE WITH J2EE
+<br>•	Java 1.8
+<br>•	Eclipse
 <br>•	MAVEN
-<br>•	APACHE SERVER or PHP SUPPORT FOR TOMCAT 
+<br>•	Apache server or PHP support for Tomcat 
 
