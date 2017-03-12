@@ -18,6 +18,7 @@
 
 <h2> ARCHITECTURE DESCRIPTION</h2>
 <br> The Count Me Up PDF file explain the main architecture of the project
+[[https://github.com/carmeloduchetta/COUNT-ME-UP/ARCHITECTURE.png|alt=octocat]]
 
 <h2> Assumptions </h2>
 
