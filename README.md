@@ -19,7 +19,7 @@
 # ARCHITECTURE DESCRIPTION
 <br> The Count Me Up PDF file explain the main architecture of the project
 
-<h2> Assumptions <h2>
+<h2> Assumptions </h2>
 
 •	A Default User will track all the exceeded votes
 
