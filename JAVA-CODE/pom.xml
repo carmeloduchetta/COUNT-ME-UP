@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.bbc.counting</groupId>
-  <artifactId>BBC_COUNTING_VOTES</artifactId>
+  <artifactId>BBC-1.0_STAGE</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>BBC_COUNTING_VOTES Maven Webapp</name>
+  <name>BBC-1.0_STAGE Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <!-- Required for Triggers and cassandra 2.x --> 
@@ -272,7 +272,7 @@
         	
     </plugins>
   
-    <finalName>BBC_COUNTING_VOTES</finalName>
+    <finalName>BBC-1.0_STAGE</finalName>
   </build>
     <repositories>
   		  	
