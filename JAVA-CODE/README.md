@@ -5,8 +5,8 @@
 
 <h2> DESCRIPTION </h2>
 
-This code provide 
-Web Services development to accept calls from Front End project
-Entities developement
-Persistence Data functions against Cassandra
-Populating Data Functions against Solr Core
+This code provide: 
+- Web Services development to accept calls from Front End project
+- Entities developement
+- Persistence Data functions against Cassandra
+- Populating Data Functions against Solr Core
