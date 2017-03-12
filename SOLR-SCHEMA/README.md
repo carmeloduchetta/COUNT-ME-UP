@@ -8,7 +8,7 @@ http://127.0.0.1:8984/solr/BBC_VOTES-STAGE/update?stream.body=%3Cdelete%3E%3Cque
 <br><h2>Solr Schema</h2>
   
 <br><h5>    
-    <br><field name="id" 						        type="string" 			  indexed="true"  stored="true" required="true" multiValued="false" /> 
+    <br>"<field name="id" 						        type="string" 			  indexed="true"  stored="true" required="true" multiValued="false" />" 
     <br><field name="offerKey"          		type="string"         indexed="true"  stored="true"/>
 <br>
     <br><field name="candidateId"          	type="string"         indexed="true"  stored="true"/>
