@@ -15,3 +15,6 @@
 
 # CODE CHANGES
 <br> The main code is provided by BBC-1.0-STAGE Branch
+
+# ARCHITECTURE DESCRIPTION
+<br> The Count Me Up PDF file explain the main architecture of the project
